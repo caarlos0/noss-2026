@@ -46,21 +46,19 @@ Carlos Alexandro Becker
 
 ## My experience
 
-![fit](goreleaserfundo.png)
+![right, fit](goreleaserfundo.png)
 
 - Started as a shell script for my own thing
 - ~15k stars
-- Used by many big companies
-- The _code_ was never the interesting part
+- Used by >50k OSS repositories
+- But the _code_ was never the interesting part
 
 ---
 
 ## The code was never the signal.
 
-- I had the _same_ annoying problem, _enough times_
-- Turned it into a _tool_
-- _Published_ it, _talked_ about it, kept _maintaining_ it, collaborated with
-  others, created a community
+- I was annoyed at something, fixed it, and made it usable by others
+- _Published_ it, _talked_ about it, kept _maintaining_ it, _collaborated_ with others, created a _community_
 - People had the same problem — and _liked_ my way of fixing it
 - The code is actually pretty boring
 
@@ -86,11 +84,9 @@ It might just mean you typed one lazy-ass prompt.
 ## What AI didn't break
 
 - **Taste**: which problem is worth solving, which solution feels right
-- **Community**: dealing with humans (and now _slop PR bots_)
+- **Community**: dealing with humans (and increasingly more bots)
 - **Finishing**: shipping, iterating, sticking around — actually _caring_
 - **Traction**: people liking it, starring it, using it, talking about it
-
-^ And all of these got _more_ important, not less.
 
 ---
 
@@ -108,7 +104,7 @@ It might just mean you typed one lazy-ass prompt.
 
 - Before, "no public projects" was more easily defensible
 - Time was the biggest constraint
-- But it is a lot less of a constraint now
+- It is a lot less of a constraint now
 - So why aren't you leveraging this great thing to do something more ambitious?
 
 ---
@@ -146,18 +142,17 @@ A portfolio is _evidence_ that you can:
 - A _side project_, a _micro SaaS_
 - A blog, a YouTube channel
 - A PR to a real project
-- A bug report with a clean repro
+- A bug report with a clean reproducible
 - A write-up: _"here's how I debugged this nasty thing"_
-
-^ The format doesn't matter. What matters is that _you_ are in it.
 
 ---
 
 ## In summary
 
 - AI killed the _proxy_, **not** the signal
-- A repo existing proves nothing
-- A portfolio doesn't make you good — it makes your work _visible_
+- The proxy was conceptually wrong anyway
+- A repository existing proves nothing
+- A portfolio doesn't make you good
 - You love this, or you don't. Show that.
 
 ---
