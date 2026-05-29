@@ -16,7 +16,7 @@ theme: Merriweather, 7
 Carlos Alexandro Becker
 
 - `@caarlos0` most places
-- works `@github`
+- works `@microsoft`/`@github`
 - maintains `@goreleaser`
 - [`caarlos0.dev`](https://caarlos0.dev)
 
