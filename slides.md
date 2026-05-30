@@ -5,7 +5,7 @@ theme: Merriweather, 7
 
 # [fit] Portfólios
 
-# na era da IA
+# na era da AI
 
 ---
 
@@ -24,7 +24,7 @@ Carlos Alexandro Becker
 
 # Uma provocação:
 
-## Será que ter um portfolio ainda te dá alguma vantagem?
+## Será que ter um portfólio ainda te dá alguma vantagem?
 
 ---
 
@@ -67,7 +67,7 @@ Carlos Alexandro Becker
 - Algo me incomodava, eu resolvi, e tornei utilizável por outros
 - _Publiquei_, _falei_ sobre, continuei _mantendo_, _colaborei_ com outras pessoas, criei uma _comunidade_
 - Outras pessoas tinham o mesmo problema — e _gostaram_ do meu jeito de resolver
-- **Esse são os sinais!**
+- **Esses são os sinais!**
 
 ---
 
@@ -75,13 +75,13 @@ Carlos Alexandro Becker
 
 ---
 
-## A IA quebrou o proxy
+## A AI quebrou o proxy
 
 ### "Make no mistakes"
 
 ---
 
-## A IA quebrou o proxy
+## A AI quebrou o proxy
 
 Ter um repositório não quer dizer que você:
 
@@ -92,16 +92,16 @@ Ter um repositório não quer dizer que você:
 
 ---
 
-## O que a IA _não_ quebrou
+## O que a AI _não_ quebrou
 
-- **Rume**: qual problema resolver, e qual solução faz mais sentido
+- **Rumo**: qual problema resolver, e qual solução faz mais sentido
 - **Comunidade**: lidar com humanos (e cada vez mais com bots)
 - **"Terminar" algo**: entregar, iterar, se _importar_ de verdade
 - **Tração**: gente curtindo, contribuindo, dando star, usando, falando do projeto
 
 ---
 
-## [fit] A IA não matou os portfólios.
+## [fit] A AI não matou os portfólios.
 
 ## [fit] Mas matou a _interpretação preguiçosa_ deles.
 
@@ -115,7 +115,7 @@ Ter um repositório não quer dizer que você:
 
 - Antes, não ter projetos públicos parecia mais fácil de justificar
 - Tempo sempre foi o maior gargalo
-- Você quer me dizer que você não tem nenhum problema que AI consegue resolver pra ti, caso tivesse mais tempo?
+- Sério que se você tivesse mais tempo, não tem nenhum problema que gostaria de resolver?
 - E não é essa a proposta de usar uma AI? Economizar tempo?
 
 ---
@@ -127,7 +127,7 @@ Ter um repositório não quer dizer que você:
 - E são _realmente_ bons
 
 Mas um recrutador não sabe disso.
-Não existe um comitê secreto observando o trabalho de todo mundo e passando teu CV pros RH por ai.
+Não existe um comitê secreto observando o trabalho de todo mundo e passando teu CV pros RH por aí.
 
 ---
 
@@ -137,7 +137,7 @@ Não existe um comitê secreto observando o trabalho de todo mundo e passando te
 
 ---
 
-## Portfolios
+## Portfólios
 
 Um portfólio deveria conter _evidências_ de que você consegue:
 
@@ -147,7 +147,7 @@ Um portfólio deveria conter _evidências_ de que você consegue:
 
 ---
 
-## Portfolios
+## Portfólios
 
 Exemplos:
 
@@ -167,13 +167,13 @@ Exemplos:
 
 ## Resumindo
 
-- A IA meramente evidenciou o problema
+- A AI meramente evidenciou o problema
 - Nunca foi sobre o código em si
-- Portfólio apenas torna seu trabalho visivel
+- Portfólio apenas torna seu trabalho visível
 
 ---
 
-## Será que ter um portfolio ainda te dá alguma vantagem?
+## Será que ter um portfólio ainda te dá alguma vantagem?
 
 ### Sim!
 
