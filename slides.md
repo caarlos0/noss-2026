@@ -71,8 +71,8 @@ Carlos Alexandro Becker
 ## O código sempre foi um proxy
 
 - Algo me incomodava, eu resolvi, e tornei utilizável por outros
+- E era um problema que outras pessoas de fato tinham
 - _Publiquei_, _falei_ sobre, continuei _mantendo_, _colaborei_ com outras pessoas, criei uma _comunidade_
-- Outras pessoas tinham o mesmo problema — e _gostaram_ do meu jeito de resolver
 - **Esses são os sinais!**
 
 ---
