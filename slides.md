@@ -195,3 +195,5 @@ Links:
 - [caarlos0.dev](https://caarlos0.dev)
 - [carlosbecker.com/posts/portfolio](https://carlosbecker.com/posts/portfolio)
 - [github.com/caarlos0/noss-2026](https://github.com/caarlos0/noss-2026)
+
+![right 100%](qrcode.png)
