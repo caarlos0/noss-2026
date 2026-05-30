@@ -22,6 +22,12 @@ Carlos Alexandro Becker
 
 ---
 
+# [fit] Portfólios
+
+# na era da AI
+
+---
+
 # Uma provocação:
 
 ## Será que ter um portfólio ainda te dá alguma vantagem?
@@ -94,7 +100,7 @@ Ter um repositório não quer dizer que você:
 
 ## O que a AI _não_ quebrou
 
-- **Rumo**: qual problema resolver, e qual solução faz mais sentido
+- **Critério**: qual problema resolver, e qual solução faz mais sentido
 - **Comunidade**: lidar com humanos (e cada vez mais com bots)
 - **"Terminar" algo**: entregar, iterar, se _importar_ de verdade
 - **Tração**: gente curtindo, contribuindo, dando star, usando, falando do projeto
@@ -114,9 +120,8 @@ Ter um repositório não quer dizer que você:
 ## Não ter portfólio _parece_ pior
 
 - Antes, não ter projetos públicos parecia mais fácil de justificar
-- Tempo sempre foi o maior gargalo
-- Sério que se você tivesse mais tempo, não tem nenhum problema que gostaria de resolver?
-- E não é essa a proposta de usar uma AI? Economizar tempo?
+- "Tempo" sempre foi o maior gargalo
+- Sério que agora que o custo de tempo é menor, não tem nenhum problema que você gostaria de resolver?
 
 ---
 
