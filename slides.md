@@ -3,9 +3,9 @@ footer: Carlos Becker - NOSS 2026
 slide-transition: fade(0.5)
 theme: Merriweather, 7
 
-# [fit] Portfolios
+# [fit] Portfólios
 
-# in the age of AI
+# na era da IA
 
 ---
 
@@ -15,145 +15,167 @@ theme: Merriweather, 7
 
 Carlos Alexandro Becker
 
-- `@caarlos0` most places
-- works `@microsoft`/`@github`
-- maintains `@goreleaser`
+- `@caarlos0` na maioria dos lugares
+- swe `@github`
+- maintainer `@goreleaser`
 - [`caarlos0.dev`](https://caarlos0.dev)
+
+---
+
+# Uma provocação:
+
+## Será que ter um portfolio ainda te dá alguma vantagem?
 
 ---
 
 # Agenda
 
-1. Before
-1. What changed
-1. Now what?
+1. Antes
+1. O que mudou
+1. E agora?
 
 ---
 
-# Before
+# Antes
 
 ---
 
-## The portfolio was always a proxy
+## O conselho padrão
 
-1. Build some projects
-1. Push them to GitHub
-1. \~Magic\~
-1. A recruiter finds you
-1. You make it to the next round
+1. Faça alguma coisa
+1. Suba pro GitHub
+1. \~Mágica\~
+1. Um recrutador te acha
+1. ???
+1. Proposta na mesa!
 
 ---
 
-## My experience
+## Minha experiência
 
 ![right, fit](goreleaserfundo.png)
 
-- Started as a shell script for my own thing
-- ~15k stars
-- Used by >50k OSS repositories
-- But the _code_ was never the interesting part
+- Começou como um shell script pra uma coisa minha
+- ~15k stars, >50k repositórios oss usando
+- Me deu muita _visibilidade_
+- Mas o _código_ nunca foi a parte interessante
 
 ---
 
-## The code was never the signal.
+## O código sempre foi um proxy
 
-- I was annoyed at something, fixed it, and made it usable by others
-- _Published_ it, _talked_ about it, kept _maintaining_ it, _collaborated_ with others, created a _community_
-- People had the same problem — and _liked_ my way of fixing it
-- The code is actually pretty boring
-
----
-
-# What changed
+- Algo me incomodava, eu resolvi, e tornei utilizável por outros
+- _Publiquei_, _falei_ sobre, continuei _mantendo_, _colaborei_ com outras pessoas, criei uma _comunidade_
+- Outras pessoas tinham o mesmo problema — e _gostaram_ do meu jeito de resolver
+- **Esse são os sinais!**
 
 ---
 
-## AI broke the proxy
-
-Having a repository no longer means much. It doesn't mean you:
-
-- spent a weekend on it
-- thought about the problem
-- learned anything
-- can explain how it works
-
-It might just mean you typed one lazy-ass prompt.
+# O que mudou
 
 ---
 
-## What AI didn't break
+## A IA quebrou o proxy
 
-- **Taste**: which problem is worth solving, which solution feels right
-- **Community**: dealing with humans (and increasingly more bots)
-- **Finishing**: shipping, iterating, sticking around — actually _caring_
-- **Traction**: people liking it, starring it, using it, talking about it
+### "Make no mistakes"
 
 ---
 
-## [fit] AI didn't kill portfolios.
+## A IA quebrou o proxy
 
-## [fit] But it killed the _lazy interpretation_ of them.
+Ter um repositório não quer dizer que você:
 
----
-
-# Now what?
-
----
-
-## Having no portfolio _feels_ worse now
-
-- Before, "no public projects" was more easily defensible
-- Time was the biggest constraint
-- It is a lot less of a constraint now
-- So why aren't you leveraging this great thing to do something more ambitious?
+- passou um fim de semana nisso
+- pensou sobre o problema
+- aprendeu algo
+- sabe explicar como funciona
 
 ---
 
-## Good developers can be invisible
+## O que a IA _não_ quebrou
 
-- Everyone knows one
-- No blog, no talks, no GitHub, nothing
-- And they're _really_ good
-
-But a stranger doesn't know that.
-There's no secret committee watching everyone's work.
+- **Rume**: qual problema resolver, e qual solução faz mais sentido
+- **Comunidade**: lidar com humanos (e cada vez mais com bots)
+- **"Terminar" algo**: entregar, iterar, se _importar_ de verdade
+- **Tração**: gente curtindo, contribuindo, dando star, usando, falando do projeto
 
 ---
 
-## [fit] A portfolio doesn't make you good.
+## [fit] A IA não matou os portfólios.
 
-## It makes your work _visible_.
-
----
-
-## A portfolio isn't your repositories
-
-A portfolio is _evidence_ that you can:
-
-- notice a real problem
-- make decisions
-- weigh trade-offs
-- improve based on feedback
+## [fit] Mas matou a _interpretação preguiçosa_ deles.
 
 ---
 
-## A portfolio isn't your repositories
-
-- A _side project_, a _micro SaaS_
-- A blog, a YouTube channel
-- A PR to a real project
-- A bug report with a clean reproducible
-- A write-up: _"here's how I debugged this nasty thing"_
+# E agora?
 
 ---
 
-## In summary
+## Não ter portfólio _parece_ pior
 
-- AI killed the _proxy_, **not** the signal
-- The proxy was conceptually wrong anyway
-- A repository existing proves nothing
-- A portfolio doesn't make you good
-- You love this, or you don't. Show that.
+- Antes, não ter projetos públicos parecia mais fácil de justificar
+- Tempo sempre foi o maior gargalo
+- Você quer me dizer que você não tem nenhum problema que AI consegue resolver pra ti, caso tivesse mais tempo?
+- E não é essa a proposta de usar uma AI? Economizar tempo?
+
+---
+
+## Bons devs podem ser invisíveis
+
+- Todo mundo conhece um
+- Sem blog, sem talks, sem GitHub, nada
+- E são _realmente_ bons
+
+Mas um recrutador não sabe disso.
+Não existe um comitê secreto observando o trabalho de todo mundo e passando teu CV pros RH por ai.
+
+---
+
+## [fit] Ter um portfólio não te torna bom.
+
+### Apenas torna seu trabalho mais _visível_.
+
+---
+
+## Portfolios
+
+Um portfólio deveria conter _evidências_ de que você consegue:
+
+- perceber um problema real
+- tomar decisões, pesar _trade-offs_
+- interagir com outras pessoas, aceitar feedback
+
+---
+
+## Portfolios
+
+Exemplos:
+
+[.column]
+
+- Projetos OSS
+- Micro SaaS
+- Blog
+
+[.column]
+
+- Streams
+- Canal no YouTube
+- Issues/PRs em projetos existentes
+
+---
+
+## Resumindo
+
+- A IA meramente evidenciou o problema
+- Nunca foi sobre o código em si
+- Portfólio apenas torna seu trabalho visivel
+
+---
+
+## Será que ter um portfolio ainda te dá alguma vantagem?
+
+### Sim!
 
 ---
 
@@ -161,7 +183,7 @@ A portfolio is _evidence_ that you can:
 
 ---
 
-# Questions?
+# Perguntas?
 
 Links:
 
