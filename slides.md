@@ -5,7 +5,7 @@ theme: Merriweather, 7
 
 # [fit] Portfólios
 
-# na era da AI
+# na era da IA
 
 ---
 
@@ -24,7 +24,7 @@ Carlos Alexandro Becker
 
 # [fit] Portfólios
 
-# na era da AI
+# na era da IA
 
 ---
 
@@ -81,13 +81,13 @@ Carlos Alexandro Becker
 
 ---
 
-## A AI quebrou o proxy
+## A IA quebrou o proxy
 
 ### "Make no mistakes"
 
 ---
 
-## A AI quebrou o proxy
+## A IA quebrou o proxy
 
 Ter um repositório não quer dizer que você:
 
@@ -98,7 +98,7 @@ Ter um repositório não quer dizer que você:
 
 ---
 
-## O que a AI _não_ quebrou
+## O que a IA _não_ quebrou
 
 - **Critério**: qual problema resolver, e qual solução faz mais sentido
 - **Comunidade**: lidar com humanos (e cada vez mais com bots)
@@ -107,7 +107,7 @@ Ter um repositório não quer dizer que você:
 
 ---
 
-## [fit] A AI não matou os portfólios.
+## [fit] A IA não matou os portfólios.
 
 ## [fit] Mas matou a _interpretação preguiçosa_ deles.
 
@@ -172,7 +172,7 @@ Exemplos:
 
 ## Resumindo
 
-- A AI meramente evidenciou o problema
+- A IA meramente evidenciou o problema
 - Nunca foi sobre o código em si
 - Portfólio apenas torna seu trabalho visível
 
